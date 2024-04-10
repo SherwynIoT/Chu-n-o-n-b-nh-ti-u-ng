@@ -1,1 +1,7 @@
-# Chu-n-o-n-b-nh-ti-u-ng
+# Neural network model for diabetes diagnosis.
+
+
+
+
+
+
